@@ -1,4 +1,4 @@
-# **PROYECTO "HAT.SH REFORGED"**
+# **PROYECTO "HAT.SH REFORGED" - GRUPO 3**
 
 ## **Introducción**
 
@@ -117,5 +117,6 @@ La nueva imagen Docker mauriciovergara/hat-sh-laboratoriouniminuto:latest está 
 ## **7\. Conclusiones**
 
 Este proyecto demostró con éxito el ciclo completo de DevSecOps: tomar una aplicación de código abierto, identificar sus debilidades (tanto en el código como en la infraestructura) a través de un análisis de seguridad, y aplicar mitigaciones correctas para remediar el 100% de las vulnerabilidades críticas.
+
 
 El resultado es un artefacto final (imagen Docker) que no solo está personalizado, sino que también es verificablemente más seguro que el original, listo para un despliegue confiable en producción.
